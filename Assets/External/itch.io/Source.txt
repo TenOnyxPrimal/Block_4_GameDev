@@ -1,0 +1,3 @@
+Name: Smart Pistol
+Source: https://kotob.itch.io/futuristic-weapon-pack
+License: CC0

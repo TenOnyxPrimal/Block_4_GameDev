@@ -1,0 +1,3 @@
+Name(s): Quandtum_LowPolyCreates.fbx, qubodup_bullet_silhouette_icon_black_white.svg, Health Bar images
+Source(s): https://opengameart.org/content/game-crates, https://opengameart.org/content/bullet-silhouettes, https://opengameart.org/content/sleek-bars
+License: CC0
